@@ -1,4 +1,11 @@
 # prompt-create-ebook
+<p align="center">
+<img 
+    src="./assets/livro.png"
+    width="400"  
+/>
+</p>
+
 ## Criação de Ebook com I.A.
 
 ℹ️ NOTE: Este é o repositório desenvolvido durante o curso Santander 2024 - Fundamentos de IA para Devs na plataforma da DIO
