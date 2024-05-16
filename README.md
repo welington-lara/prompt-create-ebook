@@ -10,14 +10,14 @@
 
 ℹ️ NOTE: Este é o repositório desenvolvido durante o curso Santander 2024 - Fundamentos de IA para Devs na plataforma da DIO
 
-### Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts seguem abaixo.
+### Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts seguem abaixo.
+
+<a href="https://github.com/welington-lara/prompt-create-ebook/blob/main/output/TDD_%20Transforme%20Seu%20C%C3%B3digo%20com%20Testes%20de%20Alto%20Desempenho.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## Tecnologias utilizadas no projeto
 - ChatGPT
 - LeonardIA
-- Documentos do Google
-- Prompts
-- ChatGPT
+- Google Documents
 
 ## Prompt para geração do Conteudo do livro
 ```bash
